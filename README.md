@@ -1,10 +1,10 @@
 # Belly_Button_Plotly
 ## Overview
-The Belly Button Plotly project was done to help client display bacteria samples collected. The client wanted a webpage that contained several graphs
+The Belly Button Plotly project was done to help a client display bacteria samples collected. The client wanted a webpage that contained several graphs
 and charts that responded based on the test subjects number. As a new test subject number is selected the graphs show information about the bacteria collected from that test subject. 
 
 ### Purpose
-The purpose of this project was to display yhe following skills:
+The purpose of this project was to display the following skills:
 1. The understanding of Plotly
 2. JavaScript coding
 3. Building an HTML 
@@ -30,6 +30,7 @@ There were several graphs and charts created for this project. Below are picture
 ![gauge](https://user-images.githubusercontent.com/105830665/195492535-ecf53dae-0d21-4e3a-b3e2-3fd3d6525205.png)
 
 - **In addition to ploting all of the charts, the page was customized with several features from Bootstrap.** 
+
 The following features were customized:
 1. An Image was added to the jumbotron.
 2. The font color was changed on the jumbotron.
